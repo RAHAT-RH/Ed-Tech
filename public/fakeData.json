@@ -1,0 +1,21 @@
+[
+    {
+        "id" : 3,
+        "title": "Free",
+        "name": "Five Days Access",
+        "hour": 5
+    },
+    {
+        "id" : 4,
+        "title": "Primium",
+        "name": "Life Time Access",
+        "hour": 5
+    },
+    {
+        "id" : 5,
+        "title": "Standred",
+        "name": "1 year Access",
+        "hour": 5
+    }
+    
+]
